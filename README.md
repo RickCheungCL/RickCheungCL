@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RickCheungCL
 - 👀 I’m interested in Machine Learning and deep learning
-- 🌱 I’m currently learning how to become a Data Analyst
+- 🌱 I’m currently focusing on Full-Stack Development
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me contact email chunlam1080@gmail.com / here
 
